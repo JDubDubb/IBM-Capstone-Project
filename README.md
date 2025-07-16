@@ -52,4 +52,12 @@ Dataset: [StackOverFlow Dataset](https://cf-courses-data.s3.us.cloud-object-stor
 
 <ins>Module 6</ins> :  Present Your Findings
 A concise creation of compile of justifible finds based on the analysis of the data set. The exploration and conclusions drawn based on complex data through storytelling.
+
+<br/>
 Full presentation link:[My Data Analyst Capstone Project by Jordan White]()
+
+<br/>
+## Procedures
+
+- 
+
