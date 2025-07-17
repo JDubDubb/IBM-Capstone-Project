@@ -58,13 +58,13 @@ Full presentation link: [My Data Analyst Capstone Project by Jordan White] (http
 
 <br/>
 
-Dataset: [StackOverFlow Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/T3iZyjwN9ifjS-B0JaYVgw/survey-data-updated%205.csv)
+
 
 <br/>
 
 Table of Contents
 --
-  - [Procedural Description](#data-description)
+  - [Dataset Description](#data-description)
   - [Tools](#tools)
   - [Tasks to Complete](#tasks-to-complete)
     - Section 1 : [Data Collection](#task-1-data-collection)
@@ -74,7 +74,26 @@ Table of Contents
     - Section 5 : [Dashboard Implementation](#task-5-dashboard-implementation)
     - Section 6 : [Presention of Findings](#task-6-presentation-of-findings)
   - [Future Goals](#future-goals)
+  - 
+## Dataset Description
 
+A file provdided by Coursera showcasing developers concepts regardiong software technologies. The survey data is exported for synthesis as CSV file containing 65,000 responses. The data set is listed: [Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/T3iZyjwN9ifjS-B0JaYVgw/survey-data-updated%205.csv),  under Open Database License (ODbL).
+
+We will examine, extract, transform, analyze and report our analysis based on the given datasent.
+
+
+## Tools
+- [`python`](https://www.python.org/downloads/) v3.12.2
+- [`pandas`](https://pandas.pydata.org/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMML0187ENSkillsNetwork31430127-2021-01-01) for managing the data.
+- [`numpy`](https://numpy.org/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMML0187ENSkillsNetwork31430127-2021-01-01) for mathematical operations.
+- [`seaborn`](https://seaborn.pydata.org/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMML0187ENSkillsNetwork31430127-2021-01-01) for visualizing the data.
+- [`matplotlib`](https://matplotlib.org/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMML0187ENSkillsNetwork31430127-2021-01-01) for additional plotting tools.
+- [`folium`](https://python-visualization.github.io/folium/latest/) for geospatial data visualization such as choropleth maps.
+- [`plotly`](https://plotly.com/python/) for interactive plotting tools.
+- [`Google Looker Studio`](https://lookerstudio.google.com/overview) for dashboards.
+- [`IBM Cognos Analytics`](https://www.ibm.com/products/cognos-analytics) for dashboards
+
+## Tasks to Complete
 ### Task 1: Data Collection
 - [x] Collecting Data using APIs
 - [x] Collecting Data Using Web Scraping
@@ -104,7 +123,7 @@ Table of Contents
 
 ### Task 6: Presention of Findings
 - [x] Final Presentation
-- [ ] 
+
 ### Future Goals
 - [x] Create Dashboard in Tableau or Google Studio Looker.
 
