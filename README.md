@@ -4,8 +4,8 @@
 </p>
 
 <br/>
+## 
 
-Dataset: [StackOverFlow Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/T3iZyjwN9ifjS-B0JaYVgw/survey-data-updated%205.csv)
 
 <br/>
 
@@ -54,10 +54,56 @@ Dataset: [StackOverFlow Dataset](https://cf-courses-data.s3.us.cloud-object-stor
 A concise creation of compile of justifible finds based on the analysis of the data set. The exploration and conclusions drawn based on complex data through storytelling.
 
 <br/>
-Full presentation link:[My Data Analyst Capstone Project by Jordan White](https://www.canva.com/design/DAGtYShVhCc/mBGnX77192OztIuuoeQ8XQ/edit?utm_content=DAGtYShVhCc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Full presentation link: [My Data Analyst Capstone Project by Jordan White] (https://www.canva.com/design/DAGtYShVhCc/mBGnX77192OztIuuoeQ8XQ/edit?utm_content=DAGtYShVhCc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <br/>
-## Procedures
 
-- 
+Dataset: [StackOverFlow Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/T3iZyjwN9ifjS-B0JaYVgw/survey-data-updated%205.csv)
+
+<br/>
+
+Table of Contents
+--
+  - [Procedural Description](#data-description)
+  - [Tools](#tools)
+  - [Tasks to Complete](#tasks-to-complete)
+    - Section 1 : [Data Collection](#task-1-data-collection)
+    - Section 2 : [Data Wrangling](#task-2-data-wrangling)
+    - Section 3 : [Exploratory Data Analysis](#task-3-exploratory-data-analysis)
+    - Section 4 : [Data Visualization](#task-4-data-visualization)
+    - Section 5 : [Dashboard Implementation](#task-5-dashboard-implementation)
+    - Section 6 : [Presention of Findings](#task-6-presentation-of-findings)
+  - [Future Goals](#future-goals)
+
+### Task 1: Data Collection
+- [x] Collecting Data using APIs
+- [x] Collecting Data Using Web Scraping
+- [x] Exploring Data
+
+### Task 2: Data Wrangling
+- [x] Finding Missing Values
+- [x] Determine Missing Values
+- [x] Impute Missing Values
+- [x] Removing Duplicates
+- [x] Normalizing Data
+- [x] Data Wrangling
+
+### Task 3: Exploratory Data Analysis
+- [x] Analyzing Distrirbution
+- [x] Handling Outliers
+- [x] Correlation
+
+### Task 4: Data Visualization
+- [x] Distribution of Data
+- [x] Visualizing Relationship
+- [x] Visualizing Composition of Data
+- [x] Comparison of Data
+
+### Task 5: Dashboard Creation
+- [x] Dashboard
+
+### Task 6: Story Board
+- [x] Final Presentation
+### Next Time
+- [x] Future Goals
 
