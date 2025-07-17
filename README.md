@@ -54,7 +54,7 @@ Dataset: [StackOverFlow Dataset](https://cf-courses-data.s3.us.cloud-object-stor
 A concise creation of compile of justifible finds based on the analysis of the data set. The exploration and conclusions drawn based on complex data through storytelling.
 
 <br/>
-Full presentation link:[My Data Analyst Capstone Project by Jordan White]()
+Full presentation link:[My Data Analyst Capstone Project by Jordan White](https://www.canva.com/design/DAGtYShVhCc/mBGnX77192OztIuuoeQ8XQ/edit?utm_content=DAGtYShVhCc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <br/>
 ## Procedures
