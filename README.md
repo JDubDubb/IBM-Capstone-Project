@@ -99,11 +99,12 @@ Table of Contents
 - [x] Visualizing Composition of Data
 - [x] Comparison of Data
 
-### Task 5: Dashboard Creation
+### Task 5: Dashboard Implementation
 - [x] Dashboard
 
-### Task 6: Story Board
+### Task 6: Presention of Findings
 - [x] Final Presentation
-### Next Time
-- [x] Future Goals
+- [ ] 
+### Future Goals
+- [x] Create Dashboard in Tableau or Google Studio Looker.
 
