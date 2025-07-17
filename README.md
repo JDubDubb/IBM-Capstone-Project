@@ -1,12 +1,8 @@
-# IBM-Capstone-Project
 <p align="center">
     <img src="https://howtolearnmachinelearning.com/wp-content/uploads/2021/04/coursera_machine_learning_ibm.png?raw=true" alt="IBM and Coursera Logos" width="400" height="133"/>
 </p>
 
-<br/>
-
-
-<br/>
+# IBM-Capstone-Project through Coursera
 
 <ins>Module 1</ins> : Data Collection
 - The application of key concepts in data collection and analysis through APIs and web scraping.
