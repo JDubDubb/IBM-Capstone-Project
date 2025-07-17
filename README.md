@@ -4,7 +4,6 @@
 </p>
 
 <br/>
-## 
 
 
 <br/>
@@ -74,7 +73,7 @@ Table of Contents
     - Section 5 : [Dashboard Implementation](#task-5-dashboard-implementation)
     - Section 6 : [Presentation of Findings](#task-6-presentation-of-findings)
   - [Future Goals](#future-goals)
-  - 
+    
 ## Dataset Description
 
 A file provdided by Coursera showcasing developers concepts regardiong software technologies. The survey data is exported for synthesis as CSV file containing 65,000 responses. The data set is listed: [Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/T3iZyjwN9ifjS-B0JaYVgw/survey-data-updated%205.csv),  under Open Database License (ODbL).
