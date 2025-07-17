@@ -72,7 +72,7 @@ Table of Contents
     - Section 3 : [Exploratory Data Analysis](#task-3-exploratory-data-analysis)
     - Section 4 : [Data Visualization](#task-4-data-visualization)
     - Section 5 : [Dashboard Implementation](#task-5-dashboard-implementation)
-    - Section 6 : [Presention of Findings](#task-6-presentation-of-findings)
+    - Section 6 : [Presentation of Findings](#task-6-presentation-of-findings)
   - [Future Goals](#future-goals)
   - 
 ## Dataset Description
@@ -121,7 +121,7 @@ We will examine, extract, transform, analyze and report our analysis based on th
 ### Task 5: Dashboard Implementation
 - [x] Dashboard
 
-### Task 6: Presention of Findings
+### Task 6: Presentation of Findings
 - [x] Final Presentation
 
 ### Future Goals
