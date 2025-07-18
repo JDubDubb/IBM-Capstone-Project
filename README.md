@@ -72,9 +72,285 @@ Table of Contents
     
 ## Dataset Description
 
-A file provdided by Coursera showcasing developers concepts regardiong software technologies. The survey data is exported for synthesis as CSV file containing 65,000 responses. The data set is listed: [Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/T3iZyjwN9ifjS-B0JaYVgw/survey-data-updated%205.csv),  under Open Database License (ODbL).
+A file provdided by Coursera showcasing developers concepts regardiong software technologies. The survey data is exported for synthesis as CSV file containing 65,000 responses. The data set is listed: [Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/T3iZyjwN9ifjS-B0JaYVgw/survey-data-updated%205.csv),  under Open Database License (ODbL). 
 
-We will examine, extract, transform, analyze and report our analysis based on the given datasent.
+Column Description of Survey data
+
+<table border="1">
+
+<tbody><tr>
+  <td><strong>Column name</strong></td>
+  <td><strong>Question text</strong></td>
+</tr>
+
+  
+<tr>
+  <td>ResponseId</td>
+  <td>Randomized respondent ID number.</td>
+</tr>
+
+
+<tr>
+  <td>MainBranch </td>
+  <td>Which of the following options best describes you today?</td>
+</tr>
+
+
+<tr>
+  <td>Age</td>
+  <td>What is your age?</td>
+</tr>
+
+
+<tr>
+  <td>Employment</td>
+  <td>What is your current employment status?</td>
+</tr>
+
+
+<tr>
+  <td>RemoteWork</td>
+  <td>How often do you work remotely?</td>
+</tr>
+
+<tr>
+  <td>Check</td>
+  <td>Check	Various verification or check questions related to survey consistency.</td>
+</tr>
+
+
+<tr>
+  <td>CodingActivities</td>
+  <td>What coding activities do you engage in (hobby, professional, and open-source contributions)?</td>
+</tr>
+
+<tr>
+  <td>EdLevel</td>
+  <td>What is the highest level of formal education you have completed?</td>
+</tr>
+
+<tr>
+  <td>LearnCode</td>
+  <td>How did you learn to code?</td>
+</tr>
+
+
+<tr>
+  <td>LearnCodeOnline</td>
+  <td>Have you used online resources to learn coding?</td>
+</tr>
+
+
+<tr>
+  <td>TechDoc</td>
+  <td>How do you use technical documentation?</td>
+</tr>
+
+
+<tr>
+  <td>YearsCode</td>
+  <td>How many years have you been coding?</td>
+</tr>
+
+<tr>
+  <td>YearsCodePro</td>
+  <td>How many years have you coded professionally?</td>
+</tr>
+
+
+<tr>
+  <td>DevType</td>
+  <td>What is your role or type of development work you do?</td>
+</tr>
+
+
+<tr>
+  <td>OrgSize</td>
+  <td>What is the size of the organization you work for?</td>
+</tr>
+
+
+<tr>
+  <td>PurchaseInfluence</td>
+  <td>How much influence do you have on purchasing technology at your company?</td>
+</tr>
+
+<tr>
+  <td>BuyNewTool</td>
+  <td>How does your company decide whether to buy new tools or technology?</td>
+</tr>
+
+<tr>
+  <td>BuildvsBuy</td>
+  <td>Does your company prefer to build or buy software?</td>
+</tr>
+
+<tr>
+  <td>TechEndorse</td>
+  <td>Do you endorse any specific technologies at your company?</td>
+</tr>
+
+<tr>
+  <td>Country</td>
+  <td>In which country do you reside?</td>
+</tr>
+
+<tr>
+  <td>Currency</td>
+  <td>Which currency do you use day-to-day?</td>
+</tr>
+
+
+<tr>
+  <td>CompTotal</td>
+  <td>What is your current total compensation (salary, bonuses, and so on)?</td>
+</tr>
+
+<tr>
+  <td>LanguageHaveWorkedWith</td>
+  <td>Which programming languages have you worked with in the past year?</td>
+</tr>
+
+<tr>
+  <td>LanguageWantToWorkWith</td>
+  <td>Which programming languages do you want to work with in the future?</td>
+</tr>
+
+
+<tr>
+  <td>LanguageAdmired</td>
+  <td>Which programming languages do you admire most?</td>
+</tr>
+
+<tr>
+  <td>DatabaseHaveWorkedWith</td>
+  <td>Which database technologies have you worked with in the past year?</td>
+</tr>
+
+<tr>
+  <td>DatabaseWantToWorkWith</td>
+  <td>Which database technologies do you want to work with in the future?</td>
+</tr>
+
+<tr>
+  <td>DatabaseAdmired</td>
+  <td>Which database technologies do you admire most?</td>
+</tr>
+
+<tr>
+  <td>PlatformHaveWorkedWith</td>
+  <td>Which platforms have you worked with in the past year?</td>
+</tr>
+
+<tr>
+  <td>PlatformWantToWorkWith</td>
+  <td>Which platforms do you want to work with in the future?</td>
+</tr>
+
+<tr>
+  <td>PlatformAdmired</td>
+  <td>Which platforms do you admire most?</td>
+</tr>
+
+
+<tr>
+  <td>WebframeHaveWorkedWith</td>
+  <td>Which web frameworks have you worked with in the past year?</td>
+</tr>
+
+<tr>
+  <td>WebframeWantToWorkWith</td>
+  <td>Which web frameworks do you want to work with in the future?</td>
+</tr>
+
+
+<tr>
+  <td>WebframeAdmired</td>
+  <td>Which web frameworks do you admire most?</td>
+</tr>
+
+<tr>
+  <td>EmbeddedHaveWorkedWith</td>
+  <td>Which embedded systems have you worked with in the past year?</td>
+</tr>
+
+<tr>
+  <td>EmbeddedWantToWorkWith</td>
+  <td>Which embedded systems do you want to work with in the future?</td>
+</tr>
+
+<tr>
+  <td>EmbeddedAdmired</td>
+  <td>Which embedded systems do you admire most?</td>
+</tr>
+
+<tr>
+  <td>MiscTechHaveWorkedWith</td>
+  <td>Which miscellaneous technologies have you worked with in the past year?</td>
+</tr>
+
+<tr>
+  <td>MiscTechWantToWorkWith</td>
+  <td>Which miscellaneous technologies do you want to work with in the future?</td>
+</tr>
+
+<tr>
+  <td>MiscTechAdmired</td>
+  <td>Which miscellaneous technologies do you admire most?</td>
+</tr>
+
+<tr>
+  <td>OpSysPersonal</td>
+  <td>What operating systems do you use for personal tasks?</td>
+</tr>
+
+<tr>
+  <td>OpSysProfessional</td>
+  <td>What operating systems do you use for professional tasks?</td>
+</tr><tr>
+
+</tr><tr>
+  <td>SOVisitFreq</td>
+  <td>How frequently do you visit Stack Overflow?</td>
+</tr>
+
+<tr>
+  <td>SOAccount</td>
+  <td>Do you have a Stack Overflow account?</td>
+</tr>
+
+<tr>
+  <td>SOPartFreq</td>
+  <td>How often do you participate in Q&amp;A on Stack Overflow?</td>
+</tr>
+
+<tr>
+  <td>AISelect</td>
+  <td>How do you feel about artificial intelligence tools for development?</td>
+</tr>
+
+<tr>
+  <td>AIBen</td>
+  <td>What benefits have you experienced from using AI tools?</td>
+</tr>
+
+<tr>
+  <td>AIChallenges</td>
+  <td>What challenges have you faced while using AI tools?</td>
+</tr>
+
+<tr>
+  <td>JobSat</td>
+  <td>How satisfied are you with your current job?</td>
+</tr>
+
+
+
+
+</tbody></table>
+
+We will examine, extract, transform, analyze and report our analysis.
+
 
 
 ## Tools
