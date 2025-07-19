@@ -364,7 +364,7 @@ We will examine, extract, transform, analyze and report our analysis.
 - [`Google Looker Studio`](https://lookerstudio.google.com/overview) for dashboards.
 - [`IBM Cognos Analytics`](https://www.ibm.com/products/cognos-analytics) for dashboards
 
-## Tasks to Complete
+## Tasks Completed
 ### Task 1: Data Collection
 - [x] Collecting Data using APIs
 - [x] Collecting Data Using Web Scraping
