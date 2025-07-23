@@ -37,7 +37,7 @@ The main goal of this analysis is to highlight key trends based on demographics,
  ![Demographics](./Demographics_%20IBM%20Data%20Project.png)
 
 
-# 📌 Final Project
+# 📌 Final Project 📄
 The Final Report based on the Stack Overflow Survey based on Programming Developers:
 - Executive Summary
 - Introduction
