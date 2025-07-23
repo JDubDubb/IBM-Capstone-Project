@@ -26,3 +26,12 @@ The main goal of this analysis is to highlight key trends based on demographics,
 - Extract, clean, examine, and analyze data in a well-rounded offical report for stakeholders
 - Polish and refine skills in SQL, Python, and visualization tools
 - Exprience working with big data translating to the real-world scenarios
+
+
+# 📌 Project / Dashboard Preview 📈
+## Current Trends
+- ![Current Technological Usage](./Current%20Technology_%20IBM%20Data%20Project.png)
+## Future Trends
+- ![Future Tehnology Trends](./Future%20Technology_%20IBM%20Data%20Project.png)
+## Demographics
+- ![Demographics](./Demographics_%20IBM%20Data%20Project.png)
