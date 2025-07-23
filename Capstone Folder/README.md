@@ -28,10 +28,21 @@ The main goal of this analysis is to highlight key trends based on demographics,
 - Exprience working with big data translating to the real-world scenarios
 
 
-# 📌 Project / Dashboard Preview 📈
+# 📌 Dashboard Preview 📈
 ## Current Trends
  ![Current Technological Usage](./Current%20Technology_%20IBM%20Data%20Project.png)
 ## Future Trends
  ![Future Tehnology Trends](./Future%20Technology_%20IBM%20Data%20Project.png)
 ## Demographics
  ![Demographics](./Demographics_%20IBM%20Data%20Project.png)
+
+
+# 📌 Final Project
+The Final Report based on the Stack Overflow Survey based on Programming Developers:
+- Executive Summary
+- Introduction
+- Methodology
+- Visualizations and Dashboards
+- Discussion
+- Conclusion (Recommendations)
+📄 [Downloadable Final Report](./Data%20Analyst%20Capstone%20Presentation.pdf) 📊
