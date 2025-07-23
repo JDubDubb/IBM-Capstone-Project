@@ -30,8 +30,8 @@ The main goal of this analysis is to highlight key trends based on demographics,
 
 # 📌 Project / Dashboard Preview 📈
 ## Current Trends
-- ![Current Technological Usage](./Current%20Technology_%20IBM%20Data%20Project.png)
+ ![Current Technological Usage](./Current%20Technology_%20IBM%20Data%20Project.png)
 ## Future Trends
-- ![Future Tehnology Trends](./Future%20Technology_%20IBM%20Data%20Project.png)
+ ![Future Tehnology Trends](./Future%20Technology_%20IBM%20Data%20Project.png)
 ## Demographics
-- ![Demographics](./Demographics_%20IBM%20Data%20Project.png)
+ ![Demographics](./Demographics_%20IBM%20Data%20Project.png)
