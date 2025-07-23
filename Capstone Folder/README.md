@@ -46,3 +46,16 @@ The Final Report based on the Stack Overflow Survey based on Programming Develop
 - Discussion
 - Conclusion (Recommendations)
 📄 [Downloadable Final Report](./Data%20Analyst%20Capstone%20Presentation.pdf) 📊
+
+
+# 👤 Author 
+**Jordan White**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/jordan-white-14131129j/)
+
+🧾 [Coursera](https://www.coursera.org/account/accomplishments/professional-cert/95QL3UNRX0OX)
+
+# 📊 Acknowledgements 📑
+- 🧾 IBM & Coursera for Capstone structure
+- 📶 Stack Overflow Developer Survey for the dataset
+- 💻 IBM Cognos Analytics for the Data Visualization tool
