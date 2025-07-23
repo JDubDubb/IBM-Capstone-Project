@@ -396,5 +396,5 @@ We will examine, extract, transform, analyze and report our analysis.
 - [x] Final Presentation
 
 ### Future Goals
-- [x] Create Dashboard in Tableau or Google Studio Looker.
+- [ ] Create Dashboard in Tableau or Google Studio Looker.
 
