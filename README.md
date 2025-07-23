@@ -393,7 +393,7 @@ We will examine, extract, transform, analyze and report our analysis.
 - [x] Dashboard
 
 ### Task 6: Presentation of Findings
-- [x] Final Presentation
+- [x] Final Presentation in [Capstone Folder](./Capstone_Folder)
 
 ### Future Goals
 - [ ] Create Dashboard in Tableau or Google Studio Looker.
